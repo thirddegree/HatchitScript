@@ -1,8 +1,5 @@
 # HatchitScript
 
-[![Documentation](https://codedocs.xyz/thirddegree/HatchitScript.svg)](https://codedocs.xyz/thirddegree/HatchitScript/)
-[![Join the chat at https://gitter.im/thirddegree/HatchitDiscussion](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/thirddegree/HatchitDiscussion)
-
 The Python focused scripting library powering [Hatchit](https://github.com/thirddegree/Hatchit)
 
 ---
